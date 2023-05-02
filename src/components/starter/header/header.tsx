@@ -11,6 +11,7 @@ export default component$(() => {
             <QwikLogo height={50} width={143} />
           </a>
         </div>
+        <h2>Some Hero samples using Qwik</h2>
       </div>
     </header>
   );
